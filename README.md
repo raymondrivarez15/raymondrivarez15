@@ -1,9 +1,6 @@
 ## Hi there, my name is Raymond Ryan V. Rivarez from Sta Clara Sur Pila, Laguna👋
 I currently enrolled in BSIT 4th year at LSPU Sta Cruz Campus.
 and this is my Activity1_Creation of GitHub Account
-<!--
-**raymondrivarez15/raymondrivarez15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 Abiut me:
 • BSIT Student at Laguna State Polytechnic University
@@ -21,7 +18,3 @@ Current Projects
 
 Connect with Me
 • Email: raymondrivarez23@gmail.com
-
-
-
--->
