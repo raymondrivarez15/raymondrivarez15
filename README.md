@@ -1,19 +1,32 @@
-## Hi there, my name is Raymond Ryan V. Rivarez from Sta Clara Sur Pila, Laguna👋
-I currently enrolled in BSIT 4th year at LSPU Sta Cruz Campus and this is my Activity1_Creation of GitHub Account
+# 👋 Hi there, I'm **Raymond Ryan V. Rivarez**  
+📍 From Sta. Clara Sur, Pila, Laguna  
+🎓 4th Year BSIT Student | Laguna State Polytechnic University – Sta. Cruz Campus  
 
-About me:
-• BSIT Student at Laguna State Polytechnic University
-• Currently learning Python, Flask, SQL, and Flutter=
-• Goal: To become a Web and Mobile Application Developer
-• Interested in Software Development and UI/UX Design
+---
 
-Skills
-• Languages: C#, Python and SQL
-• Frameworks/Tools: Flutter and Figma
+## 🚀 About Me
+- 🎓 BSIT Student passionate about **Software Development** and **UI/UX Design**  
+- 📚 Currently learning **Python, Flask, SQL, and Flutter**  
+- 🎯 Goal: To become a **Web & Mobile Application Developer**  
+- 💡 Always eager to learn new technologies and improve coding skills  
 
-Current Projects
-• Learning Git and GitHub for version control
-• Creating small apps as portfolio projects
+---
 
-Connect with Me
-• Email: raymondrivarez23@gmail.com
+## 🛠️ Skills
+- **Languages:** 🐍 Python | ⚙️ C# | 🗄️ SQL  
+- **Frameworks/Tools:** 📱 Flutter | 🎨 Figma  
+
+---
+
+## 📂 Current Projects
+- 🔧 Exploring **Git & GitHub** for version control  
+- 📱 Developing **small apps** for my portfolio  
+
+---
+
+## 📫 Connect with Me
+- 📧 Email: **raymondrivarez23@gmail.com**  
+
+---
+
+⭐ *“Code, Create, and Innovate.”*  
